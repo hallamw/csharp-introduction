@@ -1,0 +1,16 @@
+/home/hallam/Projects/csharp/intro/hellomars/bin/Debug/net5.0/hellomars
+/home/hallam/Projects/csharp/intro/hellomars/bin/Debug/net5.0/hellomars.deps.json
+/home/hallam/Projects/csharp/intro/hellomars/bin/Debug/net5.0/hellomars.runtimeconfig.json
+/home/hallam/Projects/csharp/intro/hellomars/bin/Debug/net5.0/hellomars.runtimeconfig.dev.json
+/home/hallam/Projects/csharp/intro/hellomars/bin/Debug/net5.0/hellomars.dll
+/home/hallam/Projects/csharp/intro/hellomars/bin/Debug/net5.0/ref/hellomars.dll
+/home/hallam/Projects/csharp/intro/hellomars/bin/Debug/net5.0/hellomars.pdb
+/home/hallam/Projects/csharp/intro/hellomars/obj/Debug/net5.0/hellomars.csprojAssemblyReference.cache
+/home/hallam/Projects/csharp/intro/hellomars/obj/Debug/net5.0/hellomars.GeneratedMSBuildEditorConfig.editorconfig
+/home/hallam/Projects/csharp/intro/hellomars/obj/Debug/net5.0/hellomars.AssemblyInfoInputs.cache
+/home/hallam/Projects/csharp/intro/hellomars/obj/Debug/net5.0/hellomars.AssemblyInfo.cs
+/home/hallam/Projects/csharp/intro/hellomars/obj/Debug/net5.0/hellomars.csproj.CoreCompileInputs.cache
+/home/hallam/Projects/csharp/intro/hellomars/obj/Debug/net5.0/hellomars.dll
+/home/hallam/Projects/csharp/intro/hellomars/obj/Debug/net5.0/ref/hellomars.dll
+/home/hallam/Projects/csharp/intro/hellomars/obj/Debug/net5.0/hellomars.pdb
+/home/hallam/Projects/csharp/intro/hellomars/obj/Debug/net5.0/hellomars.genruntimeconfig.cache
